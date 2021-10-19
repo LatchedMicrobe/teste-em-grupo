@@ -1,2 +1,3 @@
 # Platina Studios Hub
-Repositório criado para testar códigos criados pelas pessoas com acesso a commitar no mesmo
+Vamo usar isso aqui pra testar uns códigos aleatórios, e se der certo botar prum repositório mais bonzinho com um código melhor escrito
+
